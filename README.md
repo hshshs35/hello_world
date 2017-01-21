@@ -1,2 +1,2 @@
 # hello_world
-lalala
+this is strange;
